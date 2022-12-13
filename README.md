@@ -1,4 +1,6 @@
 ### Hi there 👋
-### My Name is Nathaniel Andrian
-### but, you can call me Niel
+### Welcome to my GitHub
+
+**My name is Nathaniel Andrian**
+But, you can call me Niel
 
